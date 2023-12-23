@@ -31,5 +31,4 @@ This project is a practical application of what was explained in the course bell
 - **Frontend Mentor**: [Mohamed Abusrea](https://www.linkedin.com/in/mohamedabusrea/)
 - **Author**: El Houcine Bani
 - **Course**: [Advanced CSS: Responsive Design, Animations, SASS](https://almdrasa.com/products/courses/advanced-css-sass-animation)
-- **Design**: [Mention the design that was used for this project]
 
